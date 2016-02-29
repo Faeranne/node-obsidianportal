@@ -1,0 +1,9 @@
+{
+	  "name":"obsidianportal"
+	, "version":"0.0.1"
+	, "author":{
+		  "name":"Blixa Morgan"
+		, "email":"blixa@projectmakeit.com"
+	}
+	, "library":"MIT"
+}
